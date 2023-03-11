@@ -1,0 +1,22 @@
+{
+  "name": "randomnote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/sh0werhead/RandomNote"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.6.1",
+    "pm2": "^5.2.2",
+    "typescript": "^4.9.5"
+  }
+}
