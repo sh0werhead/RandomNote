@@ -1,0 +1,1 @@
+create table note (title varchar(50), body varchar(10000));
